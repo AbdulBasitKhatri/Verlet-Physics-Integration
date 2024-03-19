@@ -29,7 +29,7 @@ This project has been an incredible learning experience for me. Here are some ke
 
 ![Demo 1](https://github.com/AbdulBasitKhatri/Verlet-Physics-Integration/blob/main/demo1.gif)
 
-![Demo 2](https://github.com/AbdulBasitKhatri/Verlet-Physics-Integration/blob/main/demo1.gif)
+![Demo 2](https://github.com/AbdulBasitKhatri/Verlet-Physics-Integration/blob/main/demo2.gif)
 
 ## Usage
 
